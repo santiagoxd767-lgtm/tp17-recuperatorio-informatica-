@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Cabin|Inconsolata|Nunito|Nunito+Sans|Pacifico|Quicksand|Rubik|VT323"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../css/tower.css" />
+    <link rel="stylesheet" href="../css/school-theme.css" />
+    <title>¡A jugar! · IPET 249</title>
+    <link rel="icon" href="../image/icyTower.png" />
+  </head>
+
+  <body>
+    <header>
+      <iframe src="../html/iframe-hello-user.html" frameborder="0"></iframe>
+    </header>
+
+    <a href="../html/characters.html">
+      <img src="../image/back.png" class="back"
+    /></a>
+    <canvas id="myCanvas"></canvas>
+    <div id="over-modal" class="overModal">
+      <button id="close-modal">
+        <img src="../image/x.png" alt="x" />
+      </button>
+      <h1>GAME OVER</h1>
+      <p id="over-msg"></p>
+      <h2>¿Qué querés hacer ahora?</h2>
+      <a class="link" href="../html/icy-tower-home.html">Menú principal</a>
+      <a class="link" href="../html/game-scores.html">Puntajes</a>
+    </div>
+    <div id="agree-to-sound" class="overModal">
+      <button class="btn-close">
+        <img src="../image/x.png" alt="x" />
+      </button>
+      <h2>¿Querés música de fondo?</h2>
+      <button  class="btn-agree link">¡Sí!</button>
+    </div>
+
+    <div class="floor-hud">
+      <span id="floor-num">Piso 0</span>
+      <span id="floor-name">Hardware</span>
+    </div>
+
+    <footer class="game-score">
+      <div>
+        <h1>PUNTOS</h1>
+        <span id="score-span">0</span>
+      </div>
+    </footer>
+    <script src="../js/tower.js"></script>
+      <div class="school-badge-wrap school-badge-wrap--right">
+      <img class="school-badge" src="../image/escudo-ipet249.png" alt="Escudo del IPET Nº 249 Nicolás Copérnico" />
+      <div>
+        <strong>IPET Nº 249 “Nicolás Copérnico”</strong>
+        Especialidad en Informática · 6° G · 2026
+      </div>
+    </div>
+  </body>
+</html>
