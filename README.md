@@ -10,7 +10,8 @@
 | **Alumno** | _tito santiago_ |
 | **Trabajo** | Trabajo Práctico Recuperatorio: Personalización y Despliegue de *Icy Tower* |
 
-▶️ **Jugar online (GitHub Pages):** _COMPLETAR: https://TU-USUARIO.github.io/NOMBRE-DEL-REPO/_
+▶️ **Jugar online (GitHub Pages):** _COMPLETAR: https://[TU-USUARIO.github.io/NOMBRE-DEL-REPO/_](https://santiagoxd767-lgtm.github.io/tp17-recuperatorio-informatica-/
+)
 video de yt https://youtu.be/nQOCc7mJY5M
 
 ---
