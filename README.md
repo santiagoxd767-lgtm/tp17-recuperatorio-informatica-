@@ -11,6 +11,7 @@
 | **Trabajo** | Trabajo Práctico Recuperatorio: Personalización y Despliegue de *Icy Tower* |
 
 ▶️ **Jugar online (GitHub Pages):** _COMPLETAR: https://TU-USUARIO.github.io/NOMBRE-DEL-REPO/_
+video de yt https://youtu.be/nQOCc7mJY5M
 
 ---
 
